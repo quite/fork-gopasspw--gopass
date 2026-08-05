@@ -40,16 +40,16 @@ func (a *Age) getSSHIdentities(ctx context.Context) (map[string]age.Identity, er
 	ids := make(map[string]age.Identity, 10) // preallocate some space for the cache
 	sshDirs := make([]string, 0, 2)
 
-	sshDir, err := getSSHDir()
-	if err != nil {
-		debug.Log("no .ssh directory found at %s.", sshDir)
-	}
-	if sshDir != "" {
-		debug.Log("found .ssh directory at %s", sshDir)
-		sshDirs = append(sshDirs, sshDir)
-	}
-	// also check the SSH key path, if set
-	if a.sshKeyPath != "" { //nolint:nestif
+	if a.sshKeyPath == "" {
+		sshDir, err := getSSHDir()
+		if err != nil {
+			debug.Log("no .ssh directory found at %s.", sshDir)
+		}
+		if sshDir != "" {
+			debug.Log("found .ssh directory at %s", sshDir)
+			sshDirs = append(sshDirs, sshDir)
+		}
+	} else { //nolint:nestif
 		debug.Log("using custom SSH key path %s", a.sshKeyPath)
 		if fsutil.IsDir(a.sshKeyPath) {
 			sshDirs = append(sshDirs, a.sshKeyPath)
