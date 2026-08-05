@@ -7,7 +7,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/gopasspw/gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
 )
 
 const (

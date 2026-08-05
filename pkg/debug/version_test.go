@@ -28,7 +28,7 @@ func TestModuleVersion(t *testing.T) {
 		{
 			name:   "valid module version gopass",
 			module: "github.com/gopasspw/gopass",
-			pkg:    "github.com/gopasspw/gopass/internal/backend/storage/fs",
+			pkg:    "github.com/quite/fork-gopasspw--gopass/internal/backend/storage/fs",
 			modver: "v4.0.0",
 			want:   semver.MustParse("4.0.0"),
 		},

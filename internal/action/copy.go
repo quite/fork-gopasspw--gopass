@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/gopasspw/gopass/internal/action/exit"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
-	"github.com/gopasspw/gopass/pkg/termio"
+	"github.com/quite/fork-gopasspw--gopass/internal/action/exit"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/termio"
 	"github.com/urfave/cli/v3"
 )
 

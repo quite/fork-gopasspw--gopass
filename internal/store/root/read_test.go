@@ -3,9 +3,9 @@ package root
 import (
 	"testing"
 
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
-	"github.com/gopasspw/gopass/tests/gptest"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/tests/gptest"
 	"github.com/stretchr/testify/require"
 )
 

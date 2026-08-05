@@ -3,7 +3,7 @@ package tree
 import (
 	"bytes"
 
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Node is a tree node.

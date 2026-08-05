@@ -6,7 +6,7 @@ package appdir
 import (
 	"os"
 
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // DefaultAppdir is the default appdir for gopass.

@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/blang/semver/v4"
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // ErrNotSupported is returned by backends for unsupported calls.

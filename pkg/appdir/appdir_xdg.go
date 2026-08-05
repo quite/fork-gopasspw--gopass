@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // UserConfig returns the user's config directory.

@@ -8,8 +8,8 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/fsutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/fsutil"
 	"golang.org/x/sys/windows/registry"
 )
 

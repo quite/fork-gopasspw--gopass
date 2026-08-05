@@ -8,7 +8,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/gopasspw/gopass/pkg/termio"
+	"github.com/quite/fork-gopasspw--gopass/pkg/termio"
 )
 
 // Client is a pinentry CLI drop-in.

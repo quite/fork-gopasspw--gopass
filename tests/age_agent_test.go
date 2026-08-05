@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/gopasspw/gopass/tests/agecan"
+	"github.com/quite/fork-gopasspw--gopass/tests/agecan"
 	"github.com/stretchr/testify/require"
 )
 

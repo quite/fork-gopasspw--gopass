@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"filippo.io/age"
-	"github.com/gopasspw/gopass/internal/backend/crypto/age/agent"
-	"github.com/gopasspw/gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/age/agent"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
 	"github.com/stretchr/testify/require"
 )
 

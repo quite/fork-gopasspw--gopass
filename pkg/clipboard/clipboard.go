@@ -9,9 +9,9 @@ import (
 
 	"github.com/fatih/color"
 	"github.com/gopasspw/clipboard"
-	"github.com/gopasspw/gopass/internal/notify"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/notify"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 var (

@@ -8,11 +8,11 @@ import (
 	"context"
 	"strconv"
 
-	"github.com/gopasspw/gopass/internal/action/exit"
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/pkg/pwgen"
-	"github.com/gopasspw/gopass/pkg/pwgen/xkcdgen"
+	"github.com/quite/fork-gopasspw--gopass/internal/action/exit"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/pkg/pwgen"
+	"github.com/quite/fork-gopasspw--gopass/pkg/pwgen/xkcdgen"
 	"github.com/urfave/cli/v3"
 	"golang.org/x/term"
 )

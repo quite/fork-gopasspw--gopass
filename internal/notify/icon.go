@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/pkg/appdir"
-	"github.com/gopasspw/gopass/pkg/fsutil"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/pkg/appdir"
+	"github.com/quite/fork-gopasspw--gopass/pkg/fsutil"
 )
 
 func iconURI(ctx context.Context) string {

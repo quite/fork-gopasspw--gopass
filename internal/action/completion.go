@@ -7,11 +7,11 @@ import (
 	"runtime"
 	"strings"
 
-	fishcomp "github.com/gopasspw/gopass/internal/completion/fish"
-	zshcomp "github.com/gopasspw/gopass/internal/completion/zsh"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/internal/tree"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
+	fishcomp "github.com/quite/fork-gopasspw--gopass/internal/completion/fish"
+	zshcomp "github.com/quite/fork-gopasspw--gopass/internal/completion/zsh"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/internal/tree"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
 	"github.com/urfave/cli/v3"
 )
 

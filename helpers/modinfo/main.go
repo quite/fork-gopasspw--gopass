@@ -8,7 +8,7 @@ import (
 	rd "runtime/debug"
 
 	_ "github.com/blang/semver/v4"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 func main() {
@@ -21,7 +21,7 @@ func main() {
 
 	for _, v := range []string{
 		"github.com/blang/semver/v4",
-		"github.com/gopasspw/gopass/internal/backend/storage/fs",
+		"github.com/quite/fork-gopasspw--gopass/internal/backend/storage/fs",
 	} {
 		mv := debug.ModuleVersion(v)
 		fmt.Printf("Module Version: %s %s\n", v, mv)

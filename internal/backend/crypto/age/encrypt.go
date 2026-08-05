@@ -8,7 +8,7 @@ import (
 	"slices"
 
 	"filippo.io/age"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Encrypt will encrypt the given payload.

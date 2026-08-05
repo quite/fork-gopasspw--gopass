@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/gopasspw/gopass/pkg/termio"
+	"github.com/quite/fork-gopasspw--gopass/pkg/termio"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

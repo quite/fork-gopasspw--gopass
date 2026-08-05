@@ -14,9 +14,9 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/tempfile"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/tempfile"
 	shellquote "github.com/kballard/go-shellquote"
 )
 

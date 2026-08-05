@@ -16,8 +16,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/pwgen/pwrules"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/pwgen/pwrules"
 )
 
 const (

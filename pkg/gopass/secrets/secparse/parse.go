@@ -6,10 +6,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/gopass"
-	"github.com/gopasspw/gopass/pkg/gopass/secrets"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/gopass"
+	"github.com/quite/fork-gopasspw--gopass/pkg/gopass/secrets"
 )
 
 // Parse tries to parse a secret from a byte slice. It attempts to parse the

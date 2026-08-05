@@ -26,8 +26,8 @@ import (
 
 	"github.com/blang/semver/v4"
 	"github.com/google/go-github/v61/github"
-	"github.com/gopasspw/gopass/helpers/gitutils"
-	"github.com/gopasspw/gopass/pkg/fsutil"
+	"github.com/quite/fork-gopasspw--gopass/helpers/gitutils"
+	"github.com/quite/fork-gopasspw--gopass/pkg/fsutil"
 	"golang.org/x/mod/modfile"
 	"golang.org/x/oauth2"
 )

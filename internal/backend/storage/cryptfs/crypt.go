@@ -15,11 +15,11 @@ import (
 	"sync"
 
 	"github.com/blang/semver/v4"
-	"github.com/gopasspw/gopass/internal/backend"
-	"github.com/gopasspw/gopass/internal/backend/crypto/age"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/internal/store"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/age"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/internal/store"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 const (

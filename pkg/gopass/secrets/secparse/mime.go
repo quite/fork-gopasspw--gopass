@@ -9,7 +9,7 @@ import (
 	"net/textproto"
 	"strings"
 
-	"github.com/gopasspw/gopass/pkg/gopass/secrets"
+	"github.com/quite/fork-gopasspw--gopass/pkg/gopass/secrets"
 )
 
 // ErrUnknown is returned when the secret is not recognized.

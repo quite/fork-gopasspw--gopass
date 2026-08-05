@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gopasspw/gopass/pkg/appdir"
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/fsutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/appdir"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/fsutil"
 )
 
 // OnDisk is a simple on disk cache.

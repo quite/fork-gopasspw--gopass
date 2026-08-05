@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gopasspw/gopass/pkg/appdir"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/appdir"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Client is a client for the age agent.

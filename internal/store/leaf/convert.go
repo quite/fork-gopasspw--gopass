@@ -10,14 +10,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gopasspw/gopass/internal/backend"
-	"github.com/gopasspw/gopass/internal/cui"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/internal/queue"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/fsutil"
-	"github.com/gopasspw/gopass/pkg/termio"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend"
+	"github.com/quite/fork-gopasspw--gopass/internal/cui"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/internal/queue"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/fsutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/termio"
 )
 
 // Convert will convert an existing store to a new store with possibly

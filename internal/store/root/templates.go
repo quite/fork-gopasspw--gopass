@@ -6,10 +6,10 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/internal/store"
-	"github.com/gopasspw/gopass/internal/tree"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/internal/store"
+	"github.com/quite/fork-gopasspw--gopass/internal/tree"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // LookupTemplate will lookup and return a template.

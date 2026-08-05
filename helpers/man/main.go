@@ -19,11 +19,11 @@ import (
 	"time"
 
 	"github.com/blang/semver/v4"
-	ap "github.com/gopasspw/gopass/internal/action"
-	"github.com/gopasspw/gopass/internal/action/pwgen"
-	_ "github.com/gopasspw/gopass/internal/backend/crypto"
-	_ "github.com/gopasspw/gopass/internal/backend/storage"
-	"github.com/gopasspw/gopass/internal/config"
+	ap "github.com/quite/fork-gopasspw--gopass/internal/action"
+	"github.com/quite/fork-gopasspw--gopass/internal/action/pwgen"
+	_ "github.com/quite/fork-gopasspw--gopass/internal/backend/crypto"
+	_ "github.com/quite/fork-gopasspw--gopass/internal/backend/storage"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
 	"github.com/urfave/cli/v3"
 )
 

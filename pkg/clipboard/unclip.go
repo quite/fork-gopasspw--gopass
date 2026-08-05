@@ -6,9 +6,9 @@ import (
 	"os"
 
 	"github.com/gopasspw/clipboard"
-	"github.com/gopasspw/gopass/internal/notify"
-	"github.com/gopasspw/gopass/internal/pwschemes/argon2id"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/notify"
+	"github.com/quite/fork-gopasspw--gopass/internal/pwschemes/argon2id"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Clear will attempt to erase the clipboard.

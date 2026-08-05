@@ -3,7 +3,7 @@ package gpg
 import (
 	"testing"
 
-	"github.com/gopasspw/gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
 )
 
 func TestAlwaysTrust(t *testing.T) {

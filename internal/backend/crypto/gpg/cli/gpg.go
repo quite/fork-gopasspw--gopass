@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gopasspw/gopass/internal/backend/crypto/gpg"
-	"github.com/gopasspw/gopass/internal/backend/crypto/gpg/gpgconf"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/gpg"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/gpg/gpgconf"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 	lru "github.com/hashicorp/golang-lru/v2"
 )
 

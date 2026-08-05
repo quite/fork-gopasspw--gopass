@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gopasspw/gopass/helpers/gitutils"
+	"github.com/quite/fork-gopasspw--gopass/helpers/gitutils"
 	"github.com/stretchr/testify/assert"
 )
 

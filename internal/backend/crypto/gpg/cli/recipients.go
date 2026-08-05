@@ -10,9 +10,9 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/gopasspw/gopass/internal/backend/crypto/gpg"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/gpg"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // ListRecipients returns a parsed list of GPG public keys.

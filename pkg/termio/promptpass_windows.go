@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gopasspw/gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/internal/store/leaf"
-	"github.com/gopasspw/gopass/pkg/appdir"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/internal/store/leaf"
+	"github.com/quite/fork-gopasspw--gopass/pkg/appdir"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 	"github.com/kballard/go-shellquote"
 )
 

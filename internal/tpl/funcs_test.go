@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gopasspw/gopass/internal/hashsum"
+	"github.com/quite/fork-gopasspw--gopass/internal/hashsum"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

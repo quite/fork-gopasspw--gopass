@@ -7,8 +7,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/set"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/set"
 )
 
 var (

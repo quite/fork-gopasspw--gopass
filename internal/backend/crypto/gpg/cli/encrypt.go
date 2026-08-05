@@ -10,9 +10,9 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/gopasspw/gopass/internal/backend/crypto/gpg"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/gpg"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Encrypt will encrypt the given content for the recipients. If alwaysTrust is true

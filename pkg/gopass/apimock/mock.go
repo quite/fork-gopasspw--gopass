@@ -13,8 +13,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/gopasspw/gopass/internal/store/mockstore"
-	"github.com/gopasspw/gopass/pkg/gopass"
+	"github.com/quite/fork-gopasspw--gopass/internal/store/mockstore"
+	"github.com/quite/fork-gopasspw--gopass/pkg/gopass"
 )
 
 // ErrNotImplemented is returned when a method is not implemented.

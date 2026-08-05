@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/gopasspw/gitconfig"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
 	"github.com/urfave/cli/v3"
 )
 

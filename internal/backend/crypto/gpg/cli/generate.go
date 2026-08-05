@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"regexp"
 
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 var gpgRevocsRE = regexp.MustCompile(`.*/openpgp-revocs.d/([0-9A-F]{40})\.rev`)

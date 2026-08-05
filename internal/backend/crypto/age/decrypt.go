@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	"filippo.io/age"
-	"github.com/gopasspw/gopass/internal/backend/crypto/age/agent"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/age/agent"
 
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Decrypt will attempt to decrypt the given payload.

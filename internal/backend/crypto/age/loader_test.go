@@ -3,7 +3,7 @@ package age
 import (
 	"testing"
 
-	"github.com/gopasspw/gopass/internal/store/mockstore/inmem"
+	"github.com/quite/fork-gopasspw--gopass/internal/store/mockstore/inmem"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

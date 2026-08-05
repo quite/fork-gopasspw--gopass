@@ -5,7 +5,7 @@ package fossilfs
 import (
 	"testing"
 
-	"github.com/gopasspw/gopass/internal/backend/storage/fs"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/storage/fs"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

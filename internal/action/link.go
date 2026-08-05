@@ -3,8 +3,8 @@ package action
 import (
 	"context"
 
-	"github.com/gopasspw/gopass/internal/action/exit"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/internal/action/exit"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
 	"github.com/urfave/cli/v3"
 )
 

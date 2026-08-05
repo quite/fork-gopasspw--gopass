@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/blang/semver/v4"
-	"github.com/gopasspw/gopass/helpers/gitutils"
+	"github.com/quite/fork-gopasspw--gopass/helpers/gitutils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

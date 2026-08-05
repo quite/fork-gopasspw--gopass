@@ -8,8 +8,8 @@ import (
 	"fmt"
 
 	"github.com/fatih/color"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
-	"github.com/gopasspw/gopass/pkg/termio"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/termio"
 )
 
 // GetSelection show a navigable multiple-choice list to the user

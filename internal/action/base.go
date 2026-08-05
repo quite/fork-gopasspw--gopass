@@ -4,10 +4,10 @@ import (
 	"context"
 
 	"github.com/blang/semver/v4"
-	"github.com/gopasspw/gopass/internal/backend"
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/internal/reminder"
-	"github.com/gopasspw/gopass/internal/store/root"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/internal/reminder"
+	"github.com/quite/fork-gopasspw--gopass/internal/store/root"
 	"github.com/urfave/cli/v3"
 )
 

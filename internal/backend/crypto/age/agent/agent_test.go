@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"filippo.io/age"
-	"github.com/gopasspw/gopass/pkg/termio"
+	"github.com/quite/fork-gopasspw--gopass/pkg/termio"
 	"github.com/stretchr/testify/require"
 )
 

@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gopasspw/gopass/pkg/gopass"
-	"github.com/gopasspw/gopass/pkg/gopass/secrets/secparse"
+	"github.com/quite/fork-gopasspw--gopass/pkg/gopass"
+	"github.com/quite/fork-gopasspw--gopass/pkg/gopass/secrets/secparse"
 	"github.com/pquerna/otp"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

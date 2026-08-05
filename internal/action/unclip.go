@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/gopasspw/gopass/internal/action/exit"
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/pkg/clipboard"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/internal/action/exit"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/pkg/clipboard"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
 	"github.com/urfave/cli/v3"
 )
 

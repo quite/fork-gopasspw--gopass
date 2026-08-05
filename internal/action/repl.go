@@ -7,9 +7,9 @@ import (
 	"strings"
 
 	"github.com/ergochat/readline"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/internal/tree"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/internal/tree"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 	shellquote "github.com/kballard/go-shellquote"
 	"github.com/urfave/cli/v3"
 )

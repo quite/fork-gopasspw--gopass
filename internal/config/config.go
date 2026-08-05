@@ -11,8 +11,8 @@ import (
 	"strconv"
 
 	"github.com/gopasspw/gitconfig"
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/fsutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/fsutil"
 )
 
 const (

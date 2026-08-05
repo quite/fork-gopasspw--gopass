@@ -4,9 +4,9 @@ import (
 	"context"
 
 	"filippo.io/age/plugin"
-	"github.com/gopasspw/gopass/internal/cui"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/pkg/termio"
+	"github.com/quite/fork-gopasspw--gopass/internal/cui"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/pkg/termio"
 )
 
 var pluginTerminalUI = &plugin.ClientUI{

@@ -12,7 +12,7 @@ import (
 	"github.com/ProtonMail/go-crypto/openpgp/armor"
 	"github.com/ProtonMail/go-crypto/openpgp/packet"
 	"github.com/gopasspw/clipboard"
-	"github.com/gopasspw/gopass/tests/can"
+	"github.com/quite/fork-gopasspw--gopass/tests/can"
 	"github.com/stretchr/testify/require"
 )
 

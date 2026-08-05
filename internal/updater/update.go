@@ -12,8 +12,8 @@ import (
 	"runtime"
 
 	"github.com/blang/semver/v4"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // UpdateMoveAfterQuit is exported for testing.

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Get retrieves the named content.

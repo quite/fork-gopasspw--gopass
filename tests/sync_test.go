@@ -7,7 +7,7 @@ import (
 
 	"github.com/ProtonMail/go-crypto/openpgp"
 	"github.com/ProtonMail/go-crypto/openpgp/packet"
-	"github.com/gopasspw/gopass/tests/can"
+	"github.com/quite/fork-gopasspw--gopass/tests/can"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

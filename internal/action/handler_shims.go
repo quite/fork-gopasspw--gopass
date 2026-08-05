@@ -10,7 +10,7 @@ package action
 import (
 	"context"
 
-	"github.com/gopasspw/gopass/internal/backend"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend"
 	"github.com/urfave/cli/v3"
 )
 

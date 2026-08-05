@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 var httpClient = &http.Client{

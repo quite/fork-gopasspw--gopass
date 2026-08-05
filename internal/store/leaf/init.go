@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/internal/recipients"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/internal/recipients"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // IsInitialized returns true if the store is properly initialized.

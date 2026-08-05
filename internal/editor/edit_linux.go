@@ -7,8 +7,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 	"github.com/urfave/cli/v3"
 )
 

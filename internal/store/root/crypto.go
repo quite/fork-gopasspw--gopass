@@ -3,8 +3,8 @@ package root
 import (
 	"context"
 
-	"github.com/gopasspw/gopass/internal/backend"
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Crypto returns the crypto backend.

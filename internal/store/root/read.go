@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/gopasspw/gopass/pkg/ctxutil"
-	"github.com/gopasspw/gopass/pkg/gopass"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/gopass"
 )
 
 // Get returns the plaintext of a single key.

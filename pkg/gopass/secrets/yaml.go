@@ -10,10 +10,10 @@ import (
 	"strings"
 
 	"github.com/caspr-io/yamlpath"
-	"github.com/gopasspw/gopass/internal/out"
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/gopass"
-	"github.com/gopasspw/gopass/pkg/set"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/gopass"
+	"github.com/quite/fork-gopasspw--gopass/pkg/set"
 	"go.yaml.in/yaml/v3"
 )
 

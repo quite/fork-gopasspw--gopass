@@ -5,10 +5,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	_ "github.com/gopasspw/gopass/internal/backend/crypto"
-	_ "github.com/gopasspw/gopass/internal/backend/storage"
-	"github.com/gopasspw/gopass/internal/config/legacy"
-	"github.com/gopasspw/gopass/tests/gptest"
+	_ "github.com/quite/fork-gopasspw--gopass/internal/backend/crypto"
+	_ "github.com/quite/fork-gopasspw--gopass/internal/backend/storage"
+	"github.com/quite/fork-gopasspw--gopass/internal/config/legacy"
+	"github.com/quite/fork-gopasspw--gopass/tests/gptest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

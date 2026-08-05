@@ -6,7 +6,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/gopasspw/gopass/internal/out"
+	"github.com/quite/fork-gopasspw--gopass/internal/out"
 	"github.com/kbinani/screenshot"
 	"github.com/makiuchi-d/gozxing"
 	"github.com/makiuchi-d/gozxing/qrcode"

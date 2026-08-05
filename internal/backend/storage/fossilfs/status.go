@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/gopasspw/gopass/pkg/set"
+	"github.com/quite/fork-gopasspw--gopass/pkg/set"
 )
 
 type fossilStatus struct {

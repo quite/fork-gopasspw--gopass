@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // Sep is the separator used in lists to separate folders from entries.

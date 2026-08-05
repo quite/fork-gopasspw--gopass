@@ -5,7 +5,7 @@ package appdir
 import (
 	"testing"
 
-	"github.com/gopasspw/gopass/tests/gptest"
+	"github.com/quite/fork-gopasspw--gopass/tests/gptest"
 	"github.com/stretchr/testify/assert"
 )
 

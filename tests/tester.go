@@ -13,9 +13,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gopasspw/gopass/tests/agecan"
-	"github.com/gopasspw/gopass/tests/can"
-	"github.com/gopasspw/gopass/tests/gptest"
+	"github.com/quite/fork-gopasspw--gopass/tests/agecan"
+	"github.com/quite/fork-gopasspw--gopass/tests/can"
+	"github.com/quite/fork-gopasspw--gopass/tests/gptest"
 	shellquote "github.com/kballard/go-shellquote"
 	"github.com/stretchr/testify/require"
 )

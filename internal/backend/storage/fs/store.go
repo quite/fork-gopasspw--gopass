@@ -13,9 +13,9 @@ import (
 	"strings"
 
 	"github.com/blang/semver/v4"
-	"github.com/gopasspw/gopass/internal/store"
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/fsutil"
+	"github.com/quite/fork-gopasspw--gopass/internal/store"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/fsutil"
 )
 
 // Store is a fs based store.
@@ -32,7 +32,7 @@ func New(dir string) *Store {
 
 	return &Store{
 		path:    fsutil.ExpandHomedir(dir),
-		version: debug.ModuleVersion("github.com/gopasspw/gopass/internal/backend/storage/fs"),
+		version: debug.ModuleVersion("github.com/quite/fork-gopasspw--gopass/internal/backend/storage/fs"),
 	}
 }
 

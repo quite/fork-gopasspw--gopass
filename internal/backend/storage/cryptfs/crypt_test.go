@@ -6,11 +6,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gopasspw/gopass/internal/backend"
-	"github.com/gopasspw/gopass/internal/backend/crypto/age"
-	_ "github.com/gopasspw/gopass/internal/backend/storage/fs"
-	_ "github.com/gopasspw/gopass/internal/backend/storage/gitfs"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/age"
+	_ "github.com/quite/fork-gopasspw--gopass/internal/backend/storage/fs"
+	_ "github.com/quite/fork-gopasspw--gopass/internal/backend/storage/gitfs"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

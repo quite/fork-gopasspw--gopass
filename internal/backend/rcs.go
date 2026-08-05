@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gopasspw/gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
 )
 
 // rcs is a revision control backend.

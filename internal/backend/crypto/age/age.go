@@ -10,14 +10,14 @@ import (
 	"filippo.io/age"
 	"github.com/blang/semver/v4"
 	"github.com/cenkalti/backoff/v4"
-	"github.com/gopasspw/gopass/internal/backend/crypto/age/agent"
-	"github.com/gopasspw/gopass/internal/cache"
-	"github.com/gopasspw/gopass/internal/cache/ghssh"
-	"github.com/gopasspw/gopass/internal/config"
-	"github.com/gopasspw/gopass/pkg/appdir"
-	"github.com/gopasspw/gopass/pkg/ctxutil"
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/fsutil"
+	"github.com/quite/fork-gopasspw--gopass/internal/backend/crypto/age/agent"
+	"github.com/quite/fork-gopasspw--gopass/internal/cache"
+	"github.com/quite/fork-gopasspw--gopass/internal/cache/ghssh"
+	"github.com/quite/fork-gopasspw--gopass/internal/config"
+	"github.com/quite/fork-gopasspw--gopass/pkg/appdir"
+	"github.com/quite/fork-gopasspw--gopass/pkg/ctxutil"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/fsutil"
 )
 
 const (

@@ -7,8 +7,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/gopasspw/gopass/pkg/debug"
-	"github.com/gopasspw/gopass/pkg/pwgen/pwrules"
+	"github.com/quite/fork-gopasspw--gopass/pkg/debug"
+	"github.com/quite/fork-gopasspw--gopass/pkg/pwgen/pwrules"
 	"github.com/muesli/crunchy"
 )
 
